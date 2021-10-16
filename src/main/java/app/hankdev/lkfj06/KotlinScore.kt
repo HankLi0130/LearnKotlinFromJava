@@ -1,11 +1,23 @@
 package app.hankdev.lkfj06
 
-fun getScore(latter: Char) {
-    when (latter) {
-        'A' -> println("You got 10!")
-        'B' -> println("You got 9!")
-        'C' -> println("You got 8!")
-        else -> println("You got 7!")
+fun getScore(latter: Char): Int {
+    return when (latter) {
+        'A' -> {
+            println("You got 10!")
+            10
+        }
+        'B' -> {
+            println("You got 9!")
+            9
+        }
+        'C' -> {
+            println("You got 8!")
+            8
+        }
+        else -> {
+            println("You got 7!")
+            7
+        }
     }
 }
 
