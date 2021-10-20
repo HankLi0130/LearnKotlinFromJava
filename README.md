@@ -1,4 +1,4 @@
-# 從 Java 學習 Kotlin | LKFJ
+# 從 Java 學習 Kotlin | Learn Kotlin From Java
 
 Hi, Hank's here. 這個系列要幫助 Java 開發者轉換到 Kotlin．
 
