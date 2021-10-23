@@ -9,8 +9,11 @@ fun main() {
 
 fun smartCast(role: Role) {
 
-    // Java role instanceof User
-    // Kotlin role is User
+    // The smart cast works only if a variable couldn’t have changed after the is check.
+    // var role1: Role = role
+
+    // Java     role instanceof User
+    // Kotlin   role is User
 
     when (role) {
         is User -> role.doAction()

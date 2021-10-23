@@ -18,4 +18,6 @@ LKFJ 系列適合已經熟悉 Java 的開發者，如果你對 Kotlin 有興趣�
 
 - [從 Java 學 Kotlin Enum Class | LKFJ05](https://youtu.be/SJfN2duBA1E)
 
-- [從 Java 學 Kotlin When | LKFJ06]()
+- [從 Java 學 Kotlin When | LKFJ06](https://youtu.be/xs_2IiSdaWE)
+
+- [從 Java 學 Kotlin Smart Cast | LKFJ07](https://youtu.be/qMppjS34m2A)
