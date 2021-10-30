@@ -9,7 +9,7 @@ fun main() {
 
 fun smartCast(role: Role) {
 
-    // The smart cast works only if a variable couldn’t have changed after the is check.
+    // The smart cast works only if a variable couldn’t have changed after the `is` check.
     // var role1: Role = role
 
     // Java     role instanceof User
