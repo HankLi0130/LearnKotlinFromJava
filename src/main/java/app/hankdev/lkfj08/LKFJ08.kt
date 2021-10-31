@@ -1,7 +1,7 @@
 package app.hankdev.lkfj08
 
 fun main() {
-    val age = 17
+    val age = 18
     showTitle(age)
 
     val title = getTitle(age)
@@ -17,9 +17,13 @@ fun showTitle(age: Int) {
 }
 
 fun getTitle(age: Int): String {
-    if (age >= 18) {
-        return "adult"
+    return if (age >= 18) {
+        println("this is adult branch")
+        "adult"
     } else {
-        return "minor"
+        println("this is minor branch")
+        "minor"
     }
 }
+
+fun getTitleLikeTernary(age: Int): String = if (age >= 18) "adult" else "minor"

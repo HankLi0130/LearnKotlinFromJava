@@ -10,14 +10,16 @@ LKFJ 系列適合已經熟悉 Java 的開發者，如果你對 Kotlin 有興趣�
 
 - [身為 Android Developer 的你還沒開始用 Kotlin?入坑了啦！！！ | LKFJ01](https://youtu.be/UWG3Nbyy_Gc)
 
-- [從 Java 學 Kotlin Function | LKFJ02](https://youtu.be/SYiqP90tgZE)
+- [從 Java 學 Kotlin Function 函數 | LKFJ02](https://youtu.be/SYiqP90tgZE)
 
-- [從 Java 學 Kotlin Val and Var | LKFJ03](https://youtu.be/6zwjUqQq7Jw)
+- [從 Java 學 Kotlin Val and Var 價值與變數 | LKFJ03](https://youtu.be/6zwjUqQq7Jw)
 
-- [從 Java 學 Kotlin Class | LKFJ04](https://youtu.be/bzq2PM7OOrk)
+- [從 Java 學 Kotlin Class 類別 | LKFJ04](https://youtu.be/bzq2PM7OOrk)
 
-- [從 Java 學 Kotlin Enum Class | LKFJ05](https://youtu.be/SJfN2duBA1E)
+- [從 Java 學 Kotlin Enum Class 列舉類別 | LKFJ05](https://youtu.be/SJfN2duBA1E)
 
-- [從 Java 學 Kotlin When | LKFJ06](https://youtu.be/xs_2IiSdaWE)
+- [從 Java 學 Kotlin When 流程判斷 | LKFJ06](https://youtu.be/xs_2IiSdaWE)
 
-- [從 Java 學 Kotlin Smart Cast | LKFJ07](https://youtu.be/qMppjS34m2A)
+- [從 Java 學 Kotlin Smart Cast 自動轉型 | LKFJ07](https://youtu.be/qMppjS34m2A)
+
+- [從 Java 學 Kotlin If 流程判斷 | LKFJ08](https://youtu.be/pM2gnGRjnWM)
