@@ -23,3 +23,5 @@ LKFJ 系列適合已經熟悉 Java 的開發者，如果你對 Kotlin 有興趣�
 - [從 Java 學 Kotlin Smart Cast 自動轉型 | LKFJ07](https://youtu.be/qMppjS34m2A)
 
 - [從 Java 學 Kotlin If 流程判斷 | LKFJ08](https://youtu.be/pM2gnGRjnWM)
+
+- [從 Java 學 Kotlin Loop 迴圈 | LKFJ09](https://youtu.be/_dUjW91fVpg)
